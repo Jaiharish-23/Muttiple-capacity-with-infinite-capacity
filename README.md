@@ -59,4 +59,4 @@ print("--------------------------------------------------------------")
 ![image](https://github.com/user-attachments/assets/d6bf2103-a01a-48a5-8523-b6c1b4d06737)
 
 ## Result : 
-
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
